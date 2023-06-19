@@ -1,0 +1,11 @@
+version: '3'
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: plan-marketing-frontend
+    ports:
+      - '8081:8081'
+    volumes:
+      - .:/app
