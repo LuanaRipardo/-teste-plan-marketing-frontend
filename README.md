@@ -5,7 +5,7 @@ Requisitos
 
     Docker e Docker Compose
 
-|# Configuração
+# Configuração
 
 
 1. Clone este repositório para o seu ambiente local.
