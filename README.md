@@ -27,7 +27,8 @@ docker build -t plan-marketing-frontend .
 4. Execute o comando a seguir para iniciar o contêiner Docker do frontend.
 
 ```
-docker-compose up -d```
+docker-compose up -d
+```
 
 ```
 http://localhost:8081
